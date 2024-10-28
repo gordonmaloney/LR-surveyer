@@ -1,0 +1,49 @@
+{
+    "pages": [
+      {
+        "url": "https://consultationhub.edinburgh.gov.uk/sfc/visitor-levy/consultation/intro/",
+        "fields": {
+          "quickconsult-email-textsubquestion-1706192474-9": "John",
+          "quickconsult-email-textsubquestion-1706192491-6": "Doe",
+          "quickconsult.email_subquestion": "john.doe@example.com",
+          "quickconsult-email-postcodesubquestion-1706192539-1": "EH12 8TJ",
+          "question-2024-01-25-5621857299-radiosubquestion-1706192638-45-0": "checked"
+        }
+      },
+      {
+        "fields": {
+          "question-2024-09-18-5326066290-radiosubquestion-1726651612-77-0": "checked"
+        }
+      },
+      {
+        "fields": {
+          "question.2024-09-12.1254313147-2024-09-12T14-39-23.440042-79367-0": "checked",
+          "question.2024-09-12.1254313147-2024-09-12T14-39-23.440070-85029-0": "checked",
+          "question.2024-09-12.1254313147-2024-09-12T14-39-23.440082-26855-0": "checked",
+          "question-2024-09-12-8729027879-textareasubquestion-1726148963-75": "I strongly support the scheme's objectives"
+        }
+      },
+      {
+        "fields": {
+            "question-2024-09-12-0908751730-radiosubquestion-1726150421-52-1": "checked",
+            "question-2024-09-12-4751495972-radiosubquestion-1726150616-29-0": "checked"
+        }
+      },
+      {
+        "fields": {
+            "question-2024-09-12-6083889990-radiosubquestion-1726151671-59-2": "checked"
+        }
+      },
+      {
+        "fields": {
+            "question-2024-09-18-0369451896-radiosubquestion-1726671147-06-0": "checked",
+            "question.2024-09-12.9807986024-2024-09-12T15-44-12.311298-66803-0": "checked",
+            "question.2024-09-12.9807986024-2024-09-12T15-44-12.311361-83612-0": "checked",
+            "question.2024-09-12.9807986024-2024-09-12T15-44-12.311374-32027-0": "checked",
+            "question.2024-09-12.9807986024-2024-09-19T13-54-33.700330-64399-0": "checked",
+            "question.2024-09-12.9807986024-2024-09-19T13-54-33.700362-3639-0": "checked"
+        }
+      }
+    ]
+  }
+  
